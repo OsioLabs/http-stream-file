@@ -12,4 +12,4 @@ cd http-stream-file
 npm i
 ```
 
-Then follow along with the tutorial on [HeyNode.com](www.heynode.com).
+Then follow along with the tutorial on [HeyNode.com](https://www.heynode.com).
